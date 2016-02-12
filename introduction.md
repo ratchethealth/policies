@@ -16,4 +16,4 @@ The web server host are externally facing and accessible via the Internet. The d
 
 ## Version Control
 
-Policies were last updated January 15th, 2016.
+Policies were last updated February 10th, 2016.
