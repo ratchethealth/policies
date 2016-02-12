@@ -23,8 +23,4 @@
 * [Approved Tools Policy](approved_tools_policy.md)
 * [3rd Party Policy](3rd_party_policy.md)
 * [Key Definitions](key_definitions.md)
-* [Ratchet HIPAA Business Associate Agreement (“BAA”)](catalyze_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Ratchet Controls](hipaa_mapping_to_catalyze_controls.md)
-
-
-
+* [HIPAA Mappings to Ratchet Controls](hipaa_mapping_to_ratchet_controls.md)
